@@ -1,0 +1,24 @@
+{
+    "table1": [
+      { "id": 1, "company": "Ramya", "contact": "Maria", "country": "Germany" },
+      { "id": 2, "company": "Centro", "contact": "Francisco Chang", "country": "Mexico" },
+      { "id": 3, "company": "Ernst", "contact": "Roland", "country": "Austria" },
+      { "id": 4, "company": "Alfreds", "contact": "Maria", "country": "Germany" },
+      { "id": 5, "company": "Centro", "contact": "Francisco Chang", "country": "Mexico" },
+      { "id": 6, "company": "Ernst", "contact": "Roland", "country": "Austria" },
+      { "id": 7, "company": "Alfreds", "contact": "Maria", "country": "Germany" },
+      { "id": 8, "company": "Centro", "contact": "Francisco Chang", "country": "Mexico" },
+      { "id": 9, "company": "Ernst", "contact": "Roland", "country": "Austria" }
+    ],
+    "table2": [
+      { "id": 10, "company": "Alfreds", "contact": "Maria", "country": "Germany" },
+      { "id": 11, "company": "Centro", "contact": "Francisco Chang", "country": "Mexico" },
+      { "id": 12, "company": "Ernst", "contact": "Roland", "country": "Austria" },
+      { "id": 13, "company": "Alfreds", "contact": "Maria", "country": "Germany" },
+      { "id": 14, "company": "Centro", "contact": "Francisco Chang", "country": "Mexico" },
+      { "id": 15, "company": "Ernst", "contact": "Roland", "country": "Austria" }
+    ]
+    
+  }
+  
+  
